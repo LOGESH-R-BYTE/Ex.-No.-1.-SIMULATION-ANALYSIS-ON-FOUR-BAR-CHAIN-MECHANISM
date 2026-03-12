@@ -20,11 +20,25 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
-###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
-###   3. With B as centre, BC = AD = 120mm draw an arc 
-###   4. With D as centre, CD = 60 mm draw another arc 
-###   5. Join BC and DC 
+### 1.Draw the base line AD
+Draw a horizontal straight line AD with a length of 120 mm using a ruler. Mark the endpoints clearly as A and D.
+
+### 2.Draw line AB at 60°
+At point A, use a protractor to construct a line making an angle of 60° with AD.
+Measure 30 mm along this inclined line and mark the endpoint as B. Join A and B to form line AB.
+
+### 3.Draw an arc with B as centre
+Place the compass needle at point B and set the radius equal to AD (120 mm).
+Draw an arc above the line AD.
+
+### 4.Draw another arc with D as centre
+Place the compass needle at point D and set the radius to 60 mm.
+Draw another arc that intersects the previous arc.
+Mark the intersection point as C.
+
+### 5.Join the lines to complete the figure
+Draw straight lines BC and DC using a ruler to join the points.
+The required geometric figure is now completed.  
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
