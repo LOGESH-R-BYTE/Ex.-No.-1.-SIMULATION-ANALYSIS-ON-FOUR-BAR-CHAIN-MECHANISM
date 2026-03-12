@@ -67,9 +67,7 @@ The required geometric figure is now completed.
 
 
 ## Output:
-<img width="1042" height="610" alt="image" src="https://github.com/user-attachments/assets/eebf0e2a-c1a5-460a-9ee3-533ff0c726b7" />
-
-<img width="1047" height="611" alt="image" src="https://github.com/user-attachments/assets/c6a7827a-7df4-4df2-ad9a-61705c7d0c4a" />
+![WhatsApp Image 2026-03-12 at 1 48 30 PM](https://github.com/user-attachments/assets/db7d6e7c-cec4-458f-9add-505ec1cf2ee9)
 
 
 
